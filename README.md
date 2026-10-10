@@ -12,9 +12,13 @@
 
 ## 開発者 · Sobre mim
 
-Sou estudante de ADS em Fortaleza, Ceará, e estou aprendendo desenvolvimento web na prática, construindo projetos reais com Python, FastAPI, Django e MySQL.
+## 開発者 · Sobre mim
 
-Meu foco é backend, e cada projeto aqui no perfil é um passo desse aprendizado. Estou aberto a estágio e vaga júnior, então se quiser conversar, é só me chamar pelo LinkedIn. 🌱
+Sou estudante de ADS em Fortaleza, Ceará, e construo APIs e sistemas web com Python, FastAPI, Django e MySQL, com apoio de IA no desenvolvimento.
+
+Uso a IA como ferramenta para acelerar a construção dos projetos e estudo o código que ela gera para entender como tudo funciona. e cada projeto aqui no perfil é um passo desse aprendizado.
+
+Estou buscando minha primeira oportunidade em tech, seja estágio ou vaga júnior. Se quiser conversar, é só me chamar pelo LinkedIn. 🚀
 
 ---
 
