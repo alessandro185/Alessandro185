@@ -10,7 +10,6 @@
 
 ---
 
-## 開発者 · Sobre mim
 
 ## 開発者 · Sobre mim
 
