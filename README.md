@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:C1440E&height=220&section=header&text=Luis%20Alessandro&fontSize=52&fontColor=F5F0E8&fontAlignY=38&desc=Desenvolvedor%20Fullstack&descSize=18&descAlignY=58&animation=fadeIn" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:C1440E&height=220&section=header&text=Alessandro%20Matos&fontSize=52&fontColor=F5F0E8&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=58&animation=fadeIn" alt="banner" width="100%"/>
 
 <a href="https://github.com/alessandro185">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C1440E&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Backend+com+Python+%2B+FastAPI+%2B+Django;Construindo+meu+caminho+na+tecnologia" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C1440E&center=true&vCenter=true&width=700&lines=Estudante+de+ADS+em+Fortaleza;Aprendendo+Python,+FastAPI+e+Django;Construindo+projetos+na+pr%C3%A1tica;Buscando+est%C3%A1gio+ou+vaga+j%C3%BAnior" alt="typing animation" />
 </a>
 
 </div>
@@ -12,9 +12,9 @@
 
 ## 開発者 · Sobre mim
 
-Sou estudante de ADS em Fortaleza, no Ceará, e trabalho com desenvolvimento web, principalmente backend. Construo APIs e sistemas com Python, FastAPI e Django, usando MySQL como banco de dados.
+Sou estudante de ADS em Fortaleza, Ceará, e estou aprendendo desenvolvimento web na prática, construindo projetos reais com Python, FastAPI, Django e MySQL.
 
-Estou montando meu portfólio com projetos reais e busco minha primeira oportunidade no mercado de tecnologia.
+Meu foco é backend, e cada projeto aqui no perfil é um passo desse aprendizado. Estou aberto a estágio e vaga júnior, então se quiser conversar, é só me chamar pelo LinkedIn. 🌱
 
 ---
 
@@ -79,18 +79,3 @@ Estou montando meu portfólio com projetos reais e busco minha primeira oportuni
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1440E,100:0D0D0D&height=110&section=footer&text=開発者&fontSize=26&fontColor=F5F0E8&fontAlignY=65" alt="footer" width="100%"/>
-
-<!--
-**alessandro185/Alessandro185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
