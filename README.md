@@ -45,7 +45,7 @@ Meu foco é backend, e cada projeto aqui no perfil é um passo desse aprendizado
 ## Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandro185&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C1440E&icon_color=C1440E&text_color=F5F0E8&count_private=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alessandro185&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C1440E&icon_color=C1440E&text_color=F5F0E8&count_private=true&custom_title=Alessandro%20Matos%20-%20GitHub%20Stats" height="165" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro185&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C1440E&text_color=F5F0E8" height="165" alt="Top languages"/>
 </div>
 
@@ -54,11 +54,7 @@ Meu foco é backend, e cada projeto aqui no perfil é um passo desse aprendizado
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alessandro185&bg_color=0D0D0D&color=F5F0E8&line=C1440E&point=F5F0E8&area=true&area_color=C1440E&hide_border=true" alt="Activity graph" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alessandro185&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies"/>
+  <img src="https://ghchart.rshah.org/C1440E/alessandro185" alt="Contribuições" width="90%"/>
 </div>
 
 <div align="center">
