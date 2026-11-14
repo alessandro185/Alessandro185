@@ -43,10 +43,7 @@ Estou buscando minha primeira oportunidade em tech, seja estágio ou vaga júnio
 
 ## Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandro185&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C1440E&icon_color=C1440E&text_color=F5F0E8&count_private=true&custom_title=Alessandro%20Matos%20-%20GitHub%20Stats" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro185&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C1440E&text_color=F5F0E8" height="165" alt="Top languages"/>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alessandro185&theme=dark&background=0D0D0D&ring=C1440E&fire=C1440E&currStreakLabel=F5F0E8&sideLabels=F5F0E8&currStreakNum=F5F0E8&sideNums=F5F0E8&dates=8A8A8A&hide_border=true" alt="Streak"/>
