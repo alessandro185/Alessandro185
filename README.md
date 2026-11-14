@@ -31,17 +31,13 @@ Estou buscando minha primeira oportunidade em tech, seja estágio ou vaga júnio
 
 ## Projetos
 
-<div align="center">
-  <a href="https://github.com/alessandro185/velox-pay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alessandro185&repo=velox-pay&theme=dark&bg_color=0D0D0D&title_color=C1440E&icon_color=C1440E&text_color=F5F0E8&border_color=C1440E" width="32%" alt="Velox Pay"/>
-  </a>
-  <a href="https://github.com/alessandro185/escola-sistema">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alessandro185&repo=escola-sistema&theme=dark&bg_color=0D0D0D&title_color=C1440E&icon_color=C1440E&text_color=F5F0E8&border_color=C1440E" width="32%" alt="Escola Sistema"/>
-  </a>
-  <a href="https://github.com/alessandro185/Dashboard_KPIS_Vendas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alessandro185&repo=Dashboard_KPIS_Vendas&theme=dark&bg_color=0D0D0D&title_color=C1440E&icon_color=C1440E&text_color=F5F0E8&border_color=C1440E" width="32%" alt="Dashboard KPIs Vendas"/>
-  </a>
-</div>
+| Projeto | Descrição | Stack | Links |
+|---|---|---|---|
+| **Velox Pay** | API de pagamentos com frontend de dashboard | FastAPI, MySQL | [Demo](https://veloxpay-frontend.vercel.app/#dashboard) · [Código](https://github.com/alessandro185/Velox_Pay) |
+| **Escola Sistema** | Sistema de gestão escolar com perfis de usuário | Django, MySQL | [Demo](https://escolasistema-ten.vercel.app/usuarios/login/) · [Código](https://github.com/alessandro185/escola-sistema) |
+| **Dashboard KPIs de Vendas** | Painel de vendas com dados simulados | Streamlit, Pandas, Plotly | [Demo](https://dashboard-kpis-vendas.vercel.app/) · [Código](https://github.com/alessandro185/Dashboard_KPIS_Vendas) |
+| **Fluxos de Tarefas** | Gerenciador de fluxos de tarefas | Streamlit | [Demo](https://fluxosdetarefas.streamlit.app/) · [Código](https://github.com/alessandro185/Fluxos_Tarefas) |
+| **Plataforma de Cursos** | Plataforma de cursos online | Django | [Demo](https://plataforma-curso-main.vercel.app/) · [Código](https://github.com/alessandro185/plataforma-curso) |
 
 ---
 
