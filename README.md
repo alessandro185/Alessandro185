@@ -24,9 +24,12 @@ Estou buscando minha primeira oportunidade em tech, seja estágio ou vaga júnio
 ## Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,mysql,git,github&theme=dark" alt="tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,mysql,java,html,css,git,github&theme=dark" alt="tecnologias" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/IA_no_desenvolvimento-C1440E?style=for-the-badge&logo=openai&logoColor=F5F0E8" alt="IA"/>
+</div>
 ---
 
 ## Projetos
